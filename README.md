@@ -1,2 +1,2 @@
 # test_repository
-テスト用
+gitコマンド確認用のリポジトリ
